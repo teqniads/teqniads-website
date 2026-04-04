@@ -6,7 +6,7 @@ export const NAV_LINKS = [
 ];
 
 export const SOCIAL_LINKS = [
-  { label: "Twitter / X", href: "#" },
-  { label: "LinkedIn", href: "#" },
-  { label: "GitHub", href: "#" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/company/teqniads" },
+  { label: "Instagram", href: "https://www.instagram.com/teqniads" },
+  { label: "TikTok", href: "https://www.tiktok.com/@teqniads" },
 ];

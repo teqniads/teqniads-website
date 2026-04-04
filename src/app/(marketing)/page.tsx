@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <>
       <HeroSection />
-      <TrustedByMarquee />
+      {/* <TrustedByMarquee /> */}
       <FeaturedSaaS />
     </>
   );
